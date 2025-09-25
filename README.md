@@ -9,7 +9,8 @@
 <body>
     <img src="perfil 1.jpeg" alt="Foto de perfil" width="200
     " height="">
-   # Mi Resumen
+
+
 
 ## Ricardo Bryan Gutierrez Mondragon
 Estudiante de Ing. en Sistemas Computacionales
